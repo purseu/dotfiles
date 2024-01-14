@@ -1,0 +1,4 @@
+#+TITLE: Profiles for various tools
+#+AUTHOR: mcge
+#+DATE: <2024-01-14 09:09:30>
+* About WezTerm
